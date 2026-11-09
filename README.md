@@ -39,10 +39,4 @@ No redefinir producto, privacidad, evidencia, estados académicos ni contratos t
 
 ## Estado actual
 
-Producto, motores, arquitectura y contratos principales definidos.
-
-**Siguiente fase:** implementación desde Foundations y primer vertical slice end-to-end.
-
-Prompt sugerido para un chat nuevo:
-
-> Trabajá sobre el repositorio `tomasfossatti/educai-completo`. Leé primero `docs/00-START-HERE.md` y `AGENTS.md`, después `docs/implementation/Implementation_Backlog_v1.0.md`. Tomá los documentos versionados del repo como fuente de verdad y empezá por la siguiente story P0 no implementada. No redefinas decisiones de producto salvo contradicción explícita.
+Producto, motores, arquitectura y contratos principales definidos. La primera implementación (MVP) vive en [`educa-educai`](https://github.com/tomasfossatti/educa-educai); este repositorio es la fuente de la especificación de producto.
